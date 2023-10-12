@@ -31,6 +31,7 @@ Model uses Convolutional Neural Network (CNN) with the following architecture:
 ## Training and Evaluation
 
 Data is split into training and validation sets. After training, model accuracy and loss for both training and validation is present on graphs.
+
 ![1](https://github.com/jjwaldon/fruits-detection-model/assets/147337604/61a19feb-d5a3-4f97-afef-37e1ac2910b9)
 ![2](https://github.com/jjwaldon/fruits-detection-model/assets/147337604/c15af0b3-05e8-4c3a-966f-e0fb6590fae8)
 
